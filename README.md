@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm currently studying web development at IIM.
+
 cybersecurity/Machine learning enjoyer 
+
 New arch linux user
 
 ## 🌐 Socials:
