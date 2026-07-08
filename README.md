@@ -4,7 +4,7 @@
 
 🎓 Bachelor Chef de Projet Digital @ [IIM Digital School](https://www.iim.fr) (2024–2027)
 🔐 Passionate about application security, automation & AI-powered workflows
-🐧 Arch Linux user (btw) — KDE Plasma 6
+🐧 Arch Linux user (btw) - KDE Plasma 6
 💼 Open to apprenticeship opportunities starting **September 2026**
 
 ## 🌐 Socials
