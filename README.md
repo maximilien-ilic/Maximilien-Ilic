@@ -1,23 +1,39 @@
-# Hi, I'm Maximilien 👋
+<div align="center">
 
-**Full Stack Developer** — Backend · Cybersecurity · DevSecOps
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1793D1&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Maximilien+%F0%9F%91%8B;Full+Stack+Developer;Backend+%C2%B7+Cybersecurity+%C2%B7+DevSecOps;sudo+pacman+-S+motivation)
 
-🎓 Bachelor Chef de Projet Digital @ [IIM Digital School](https://www.iim.fr) (2024–2027)
-🔐 Passionate about application security, automation & AI-powered workflows
-🐧 Arch Linux user (btw) - KDE Plasma 6
-💼 Open to apprenticeship opportunities starting **September 2026**
+</div>
+
+## $ whoami
+
+```bash
+┌──(maximilien㉿arch)-[~]
+└─$ neofetch
+
+OS:           Arch Linux x86_64 (btw)
+DE:           KDE Plasma 6
+Role:         Full Stack Developer
+School:       IIM Digital School (2024 → 2027)
+Focus:        Backend · Cybersecurity · DevSecOps
+Mission:      Building secure apps and automating everything else
+Status:       Open to apprenticeship starting September 2026
+Fun fact:     My CI/CD pipeline reviews my code security before I do
+```
 
 ## 🌐 Socials
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-maximilien--ilic.fr-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maximilien-ilic.fr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-maximilien--ilic.fr-1793D1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maximilien-ilic.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximilien-ilic-12a94036b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maximilien.ilic@gmail.com)
 
-## 🚀 What I'm Working On
+## ⚡ Currently
 
-- ⚕️ Full stack development for a digital health platform (React · NestJS · Prisma · Stripe Connect)
-- 🤖 DevSecOps pipeline: automated security audits on every PR using the **Claude API** + **n8n**
-- 🔒 Web security: XSS, CSRF, SQL injection prevention & GDPR compliance
+```yaml
+building:  a full stack digital health platform (React · NestJS · Prisma · Stripe Connect)
+securing:  every PR with an automated audit pipeline (n8n + Claude API)
+breaking:  XSS, CSRF and SQL injection... in controlled environments only 🔒
+learning:  always. That's the whole point.
+```
 
 ## 💻 Tech Stack
 
@@ -47,7 +63,6 @@
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
@@ -65,15 +80,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white)
 
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🩺 **Health Platform** | Full stack patient/practitioner platform — JWT RS256 RBAC auth, Stripe Connect payments, real-time WebSocket messaging, S3 storage, full GDPR compliance (30 Prisma entities) | React · NestJS · FastAPI · PostgreSQL |
-| 🛡️ **DevSecOps Pipeline** | Automated security scanning of every commit with vulnerability reports posted directly on PRs | n8n · Claude API · GitHub |
-| 🔐 **CRUD-Security F1** | PHP/MySQL app hardened with 3 protection layers against XSS, CSRF & SQL injection — zero vulnerabilities in testing | PHP · MySQL |
-| 📅 **Booking System** | Real-time availability checks eliminating double-booking conflicts | PHP · MySQL |
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=maximilien-ilic&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
@@ -84,8 +90,10 @@
 
 <div align="center">
 
-💬 *Ask me about backend security, CI/CD automation, or why Arch Linux is worth the pain*
+```bash
+└─$ echo "Thanks for stopping by. Feel free to reach out!"
+```
 
-![Profile Views](https://komarev.com/ghpvc/?username=maximilien-ilic&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=maximilien-ilic&color=1793D1&style=flat-square)
 
 </div>
