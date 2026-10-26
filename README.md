@@ -86,6 +86,8 @@ learning:  always. That's the whole point.
 ![](https://nirzak-streak-stats.vercel.app/?user=maximilien-ilic&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maximilien-ilic&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/maximilien-ilic?theme=unicorn&font=Fira%20Sans%20Condensed)
 ---
 
 <div align="center">
